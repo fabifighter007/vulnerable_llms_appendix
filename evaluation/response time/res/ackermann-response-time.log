@@ -1,0 +1,112 @@
+[2025-02-09 19:39:58] Starting API response time calculation
+[2025-02-09 19:39:58] ++Configuration++
+[2025-02-09 19:39:58] API URL: http://108.59.81.219:8080/ackermann-service/chat
+[2025-02-09 19:39:58] Headers: {'Content-Type': 'application/json'}
+[2025-02-09 19:39:58] Simultaneous Requests: 4
+[2025-02-09 19:39:58] Total Requests: 100
+[2025-02-09 19:39:58] 
+[2025-02-09 19:39:59] Request completed in 1.27 seconds with status code 200
+[2025-02-09 19:39:59] Request completed in 1.30 seconds with status code 200
+[2025-02-09 19:39:59] Request completed in 1.54 seconds with status code 200
+[2025-02-09 19:40:00] Request completed in 2.18 seconds with status code 200
+[2025-02-09 19:40:00] Request completed in 1.07 seconds with status code 200
+[2025-02-09 19:40:00] Request completed in 1.08 seconds with status code 200
+[2025-02-09 19:40:01] Request completed in 1.19 seconds with status code 200
+[2025-02-09 19:40:01] Request completed in 0.92 seconds with status code 200
+[2025-02-09 19:40:01] Request completed in 0.98 seconds with status code 200
+[2025-02-09 19:40:02] Request completed in 1.06 seconds with status code 200
+[2025-02-09 19:40:02] Request completed in 1.04 seconds with status code 200
+[2025-02-09 19:40:03] Request completed in 0.91 seconds with status code 200
+[2025-02-09 19:40:03] Request completed in 2.80 seconds with status code 200
+[2025-02-09 19:40:03] Request completed in 2.05 seconds with status code 200
+[2025-02-09 19:40:04] Request completed in 1.36 seconds with status code 200
+[2025-02-09 19:40:04] Request completed in 0.97 seconds with status code 200
+[2025-02-09 19:40:04] Request completed in 1.00 seconds with status code 200
+[2025-02-09 19:40:05] Request completed in 1.33 seconds with status code 200
+[2025-02-09 19:40:05] Request completed in 1.01 seconds with status code 200
+[2025-02-09 19:40:05] Request completed in 2.71 seconds with status code 200
+[2025-02-09 19:40:06] Request completed in 2.01 seconds with status code 200
+[2025-02-09 19:40:06] Request completed in 1.02 seconds with status code 200
+[2025-02-09 19:40:06] Request completed in 1.29 seconds with status code 200
+[2025-02-09 19:40:07] Request completed in 1.02 seconds with status code 200
+[2025-02-09 19:40:07] Request completed in 0.97 seconds with status code 200
+[2025-02-09 19:40:07] Request completed in 2.09 seconds with status code 200
+[2025-02-09 19:40:08] Request completed in 1.32 seconds with status code 200
+[2025-02-09 19:40:08] Request completed in 1.07 seconds with status code 200
+[2025-02-09 19:40:09] Request completed in 2.14 seconds with status code 200
+[2025-02-09 19:40:26] Request completed in 17.18 seconds with status code 200
+[2025-02-09 19:40:27] Request completed in 19.12 seconds with status code 500
+[2025-02-09 19:40:27] Request completed in 19.16 seconds with status code 200
+[2025-02-09 19:40:27] Request completed in 1.10 seconds with status code 200
+[2025-02-09 19:40:28] Request completed in 20.21 seconds with status code 500
+[2025-02-09 19:40:29] Request completed in 1.96 seconds with status code 200
+[2025-02-09 19:41:00] Request completed in 32.40 seconds with status code 200
+[2025-02-09 19:41:00] Request completed in 30.61 seconds with status code 200
+[2025-02-09 19:41:00] Request completed in 32.18 seconds with status code 200
+[2025-02-09 19:41:00] Request completed in 33.42 seconds with status code 200
+[2025-02-09 19:41:01] Request completed in 1.03 seconds with status code 200
+[2025-02-09 19:41:01] Request completed in 1.15 seconds with status code 200
+[2025-02-09 19:41:02] Request completed in 1.35 seconds with status code 200
+[2025-02-09 19:41:02] Request completed in 2.07 seconds with status code 200
+[2025-02-09 19:41:02] Request completed in 1.02 seconds with status code 200
+[2025-02-09 19:41:03] Request completed in 1.08 seconds with status code 200
+[2025-02-09 19:41:03] Request completed in 1.14 seconds with status code 200
+[2025-02-09 19:41:03] Request completed in 2.25 seconds with status code 200
+[2025-02-09 19:41:04] Request completed in 0.97 seconds with status code 200
+[2025-02-09 19:41:04] Request completed in 1.09 seconds with status code 200
+[2025-02-09 19:41:04] Request completed in 2.10 seconds with status code 200
+[2025-02-09 19:41:05] Request completed in 1.58 seconds with status code 200
+[2025-02-09 19:41:05] Request completed in 0.98 seconds with status code 200
+[2025-02-09 19:41:05] Request completed in 1.16 seconds with status code 200
+[2025-02-09 19:41:06] Request completed in 1.27 seconds with status code 200
+[2025-02-09 19:41:06] Request completed in 2.34 seconds with status code 200
+[2025-02-09 19:41:06] Request completed in 0.95 seconds with status code 200
+[2025-02-09 19:41:07] Request completed in 2.02 seconds with status code 200
+[2025-02-09 19:41:07] Request completed in 1.15 seconds with status code 200
+[2025-02-09 19:41:08] Request completed in 1.40 seconds with status code 200
+[2025-02-09 19:41:08] Request completed in 1.09 seconds with status code 200
+[2025-02-09 19:41:08] Request completed in 1.13 seconds with status code 200
+[2025-02-09 19:41:09] Request completed in 2.41 seconds with status code 200
+[2025-02-09 19:41:09] Request completed in 1.42 seconds with status code 200
+[2025-02-09 19:41:09] Request completed in 0.98 seconds with status code 200
+[2025-02-09 19:41:10] Request completed in 1.15 seconds with status code 200
+[2025-02-09 19:41:10] Request completed in 1.78 seconds with status code 200
+[2025-02-09 19:41:27] Request completed in 17.12 seconds with status code 200
+[2025-02-09 19:41:28] Request completed in 18.43 seconds with status code 200
+[2025-02-09 19:41:28] Request completed in 19.23 seconds with status code 500
+[2025-02-09 19:41:28] Request completed in 1.39 seconds with status code 200
+[2025-02-09 19:41:28] Request completed in 18.37 seconds with status code 500
+[2025-02-09 19:41:31] Request completed in 2.94 seconds with status code 200
+[2025-02-09 19:42:00] Request completed in 32.25 seconds with status code 200
+[2025-02-09 19:42:00] Request completed in 32.25 seconds with status code 200
+[2025-02-09 19:42:01] Request completed in 32.48 seconds with status code 200
+[2025-02-09 19:42:01] Request completed in 30.20 seconds with status code 200
+[2025-02-09 19:42:01] Request completed in 1.08 seconds with status code 200
+[2025-02-09 19:42:02] Request completed in 1.04 seconds with status code 200
+[2025-02-09 19:42:02] Request completed in 1.41 seconds with status code 200
+[2025-02-09 19:42:02] Request completed in 0.93 seconds with status code 200
+[2025-02-09 19:42:03] Request completed in 1.21 seconds with status code 200
+[2025-02-09 19:42:03] Request completed in 2.31 seconds with status code 200
+[2025-02-09 19:42:03] Request completed in 1.34 seconds with status code 200
+[2025-02-09 19:42:04] Request completed in 0.95 seconds with status code 200
+[2025-02-09 19:42:05] Request completed in 2.11 seconds with status code 200
+[2025-02-09 19:42:05] Request completed in 1.28 seconds with status code 200
+[2025-02-09 19:42:05] Request completed in 2.05 seconds with status code 200
+[2025-02-09 19:42:05] Request completed in 0.86 seconds with status code 200
+[2025-02-09 19:42:06] Request completed in 1.02 seconds with status code 200
+[2025-02-09 19:42:06] Request completed in 1.21 seconds with status code 200
+[2025-02-09 19:42:07] Request completed in 0.95 seconds with status code 200
+[2025-02-09 19:42:07] Request completed in 2.93 seconds with status code 200
+[2025-02-09 19:42:07] Request completed in 1.15 seconds with status code 200
+[2025-02-09 19:42:07] Request completed in 1.92 seconds with status code 200
+[2025-02-09 19:42:08] Request completed in 1.40 seconds with status code 200
+[2025-02-09 19:42:08] Request completed in 1.03 seconds with status code 200
+[2025-02-09 19:42:08] Request completed in 1.12 seconds with status code 200
+[2025-02-09 19:42:09] Request completed in 2.05 seconds with status code 200
+[2025-02-09 19:42:10] Request completed in 2.01 seconds with status code 200
+[2025-02-09 19:42:11] Request completed in 2.68 seconds with status code 200
+[2025-02-09 19:42:11] 
+[2025-02-09 19:42:11] ++Result++
+[2025-02-09 19:42:11] Average Response Time: 5.27 seconds
+[2025-02-09 19:42:11] Minimum Response Time: 0.86 seconds
+[2025-02-09 19:42:11] Maximum Response Time: 33.42 seconds
